@@ -4,3 +4,12 @@ I started a bootcamp training organised by incubator nigeria and at the end of t
 
 ## Github accout creation
 I created an github account to save my works, allow collaboration on my profile 
+
+## Tools used
+- Ms Excel
+- Microsoft Power BI
+- SQL
+- PHYTHON
+
+## Link needed
+Microsoft Excel for Data Cleaning [Download here](https://kaggle.com)
